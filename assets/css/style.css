@@ -1,0 +1,26 @@
+/* #region Color Scheme =========================================================================== 
+
+  #22cb58 - Lime Green
+  #26763a - Forest Green
+  #071404 - Black W/Hint of Green
+
+  #endRegion
+*/
+
+/* #region HTML/Body ============================================================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Inconsolata', monospace;
+  background-color: #071404;
+  color: #26763a;
+}
+
+/* #endregion */
+
+/* #region =================================================================================== */
+
+/* #endregion */
